@@ -1,17 +1,16 @@
 ---
 layout:     post
-title:      "七牛短视频服务解决方案"
-subtitle:   "好的客户端 SDK 加上，可靠的云服务"
-author:     "beings"
-header-img: "https://ohuuyffq2.qnssl.com/short-video.jpeg"
+title:      "244 喜欢的猫咪"
+subtitle:   "霸气"
+author:     "244"
+header-img: "https://ohuuyffq2.qnssl.com/carlos-quintero-168401-unsplash%20%281%29-squashed.png"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 短视频 SDK
-    - 音视频
+    - 猫咪
 ---
 
-## hello world
+## hello world --cat
 
 
 
